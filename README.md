@@ -1,2 +1,2 @@
 # VPSI
-Reeel nice projekti4ek
+School project - Selected parts of software engineering
